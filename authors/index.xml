@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
+    <title>Authors | BM</title>
     <link>https://bmenendez.github.io/authors/</link>
       <atom:link href="https://bmenendez.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>`Copyright 2019`</copyright>
     <image>
       <url>https://bmenendez.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -17,9 +17,9 @@
       <link>https://bmenendez.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://bmenendez.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+      <description>&lt;p&gt;Hi! My name is Borja Menéndez and I&amp;rsquo;m a PhD in Operations Research fascinated about Artificial Intelligence and technology in general, with a focus on the design and development of algorithms. Metaheuristics passionate, I&amp;rsquo;ve also developed optimization engines applying Linear and Constraint Programming techniques.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+&lt;p&gt;Currently working with Ising models to efficiently solve hard combinatorial optimization problems within a Quantum-inspired computer: Digital Annealer. Eager to keep learning and applying knowledge to solve challenging problems.&lt;/p&gt;
 </description>
     </item>
     
