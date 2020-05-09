@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Borja Menéndez</title>
-    <link>https://bmenendez.github.io/categories/</link>
-      <atom:link href="https://bmenendez.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://bmenendez.com/categories/</link>
+      <atom:link href="http://bmenendez.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>`Copyright 2020`</copyright>
     <image>
-      <url>https://bmenendez.github.io/img/icon-192.png</url>
+      <url>http://bmenendez.com/img/icon-192.png</url>
       <title>Categories</title>
-      <link>https://bmenendez.github.io/categories/</link>
+      <link>http://bmenendez.com/categories/</link>
     </image>
     
   </channel>

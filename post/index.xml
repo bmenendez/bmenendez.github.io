@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Borja Menéndez</title>
-    <link>https://bmenendez.github.io/post/</link>
-      <atom:link href="https://bmenendez.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://bmenendez.com/post/</link>
+      <atom:link href="http://bmenendez.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>`Copyright 2020`</copyright>
     <image>
-      <url>https://bmenendez.github.io/img/icon-192.png</url>
+      <url>http://bmenendez.com/img/icon-192.png</url>
       <title>Posts</title>
-      <link>https://bmenendez.github.io/post/</link>
+      <link>http://bmenendez.com/post/</link>
     </image>
     
   </channel>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Borja Menéndez</title>
-    <link>https://bmenendez.github.io/tags/</link>
-      <atom:link href="https://bmenendez.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://bmenendez.com/tags/</link>
+      <atom:link href="http://bmenendez.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>`Copyright 2020`</copyright>
     <image>
-      <url>https://bmenendez.github.io/img/icon-192.png</url>
+      <url>http://bmenendez.com/img/icon-192.png</url>
       <title>Tags</title>
-      <link>https://bmenendez.github.io/tags/</link>
+      <link>http://bmenendez.com/tags/</link>
     </image>
     
   </channel>

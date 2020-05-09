@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Borja Menéndez</title>
-    <link>https://bmenendez.github.io/talk/</link>
-      <atom:link href="https://bmenendez.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://bmenendez.com/talk/</link>
+      <atom:link href="http://bmenendez.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>`Copyright 2020`</copyright>
     <image>
-      <url>https://bmenendez.github.io/img/icon-192.png</url>
+      <url>http://bmenendez.com/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://bmenendez.github.io/talk/</link>
+      <link>http://bmenendez.com/talk/</link>
     </image>
     
   </channel>
