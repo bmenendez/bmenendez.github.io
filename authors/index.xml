@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | BM</title>
+    <title>Authors | Borja Menéndez</title>
     <link>https://bmenendez.github.io/authors/</link>
       <atom:link href="https://bmenendez.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>`Copyright 2019`</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>`Copyright 2020`</copyright>
     <image>
       <url>https://bmenendez.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://bmenendez.github.io/authors/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>https://bmenendez.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bmenendez.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Hi! I&amp;rsquo;m a PhD in Operations Research fascinated about Artificial Intelligence and technology in general, with a focus on the design and development of algorithms. Metaheuristics passionate, I&amp;rsquo;ve also developed optimization engines applying Linear and Constraint Programming techniques.&lt;/p&gt;
-
-&lt;p&gt;Currently working with QUBO/Ising models to efficiently solve hard combinatorial optimization problems within a Quantum-inspired computer: Digital Annealer. Eager to keep learning and applying knowledge to solve challenging problems.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
