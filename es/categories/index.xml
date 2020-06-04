@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Borja Menéndez | Doctor en Investigación Operativa | Mi vida es un problema de optimización</title>
+    <link>http://bmenendez.com/es/categories/</link>
+      <atom:link href="http://bmenendez.com/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es-es</language><copyright>`Copyright 2020`</copyright>
+    <image>
+      <url>http://bmenendez.com/img/icon-512.png</url>
+      <title>Categories</title>
+      <link>http://bmenendez.com/es/categories/</link>
+    </image>
+    
+  </channel>
+</rss>

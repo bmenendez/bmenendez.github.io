@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://bmenendez.com/authors/admin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://bmenendez.com/es/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bmenendez.com/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://bmenendez.com/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://bmenendez.com/es/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bmenendez.com/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://bmenendez.com/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://bmenendez.com/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bmenendez.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://bmenendez.com/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://bmenendez.com/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bmenendez.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://bmenendez.com/es/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bmenendez.com/post/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bmenendez.com/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://bmenendez.com/es/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bmenendez.com/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://bmenendez.com/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bmenendez.com/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bmenendez.com/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://bmenendez.com/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bmenendez.com/tags/"
+                />
+  </url>
+  
+</urlset>
