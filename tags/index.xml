@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Borja Menéndez</title>
+    <title>Tags | Borja Menéndez | PhD in Operations Research | My life is an optimization problem</title>
     <link>http://bmenendez.com/tags/</link>
       <atom:link href="http://bmenendez.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>`Copyright 2020`</copyright>
     <image>
-      <url>http://bmenendez.com/img/icon-192.png</url>
+      <url>http://bmenendez.com/img/icon-512.png</url>
       <title>Tags</title>
       <link>http://bmenendez.com/tags/</link>
     </image>
