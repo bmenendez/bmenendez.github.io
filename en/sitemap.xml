@@ -59,7 +59,17 @@
   </url>
   
   <url>
-    <loc>http://bmenendez.com/post/</loc>
+    <loc>http://bmenendez.com/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://bmenendez.com/es/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bmenendez.com/blog/"
+                />
   </url>
   
   <url>
